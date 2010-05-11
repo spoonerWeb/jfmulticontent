@@ -1,0 +1,34 @@
+plugin.tx_jfmulticontent_pi1 {
+	jQueryNoConflict = {$plugin.tx_jfmulticontent_pi1.jQueryNoConflict}
+	jsInFooter = {$plugin.tx_jfmulticontent_pi1.jsInFooter}
+	jsMinify = {$plugin.tx_jfmulticontent_pi1.jsMinify}
+
+	templateFile = {$plugin.tx_jfmulticontent_pi1.file.templateFile}
+	templateFileJS = {$plugin.tx_jfmulticontent_pi1.file.templateFileJS}
+	cssFile = {$plugin.tx_jfmulticontent_pi1.file.cssFile}
+	jQueryLibrary = {$plugin.tx_jfmulticontent_pi1.file.jQueryLibrary}
+	jQueryEasing = {$plugin.tx_jfmulticontent_pi1.file.jQueryEasing}
+	jQueryUI = {$plugin.tx_jfmulticontent_pi1.file.jQueryUI}
+	jQueryUIstyle = {$plugin.tx_jfmulticontent_pi1.file.jQueryUIstyle}
+	sliderJS = {$plugin.tx_jfmulticontent_pi1.file.sliderJS}
+	sliderCSS = {$plugin.tx_jfmulticontent_pi1.file.sliderCSS}
+
+	2columnClasses = {$plugin.tx_jfmulticontent_pi1.2columnClasses}
+	3columnClasses = {$plugin.tx_jfmulticontent_pi1.3columnClasses}
+	4columnClasses = {$plugin.tx_jfmulticontent_pi1.4columnClasses}
+	classInner = {$plugin.tx_jfmulticontent_pi1.classInner}
+
+	columnWrap {
+		wrap = <div class="subcl">|</div> |*| <div class="subcl">|</div> |*| <div class="subcr">|</div>
+	}
+	tabWrap {
+		wrap = |
+	}
+	accordionWrap {
+		wrap = |
+	}
+	sliderWrap {
+		wrap = |
+	}
+}
+
