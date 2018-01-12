@@ -11,5 +11,12 @@
             "name": "Thomas Löffler",
             "email": "loeffler@spooner-web.de"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "compat",
+            "lib",
+            "pi1"
+        ]
+    }
 }
