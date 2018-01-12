@@ -1,0 +1,15 @@
+{
+    "name": "spooner/jfmulticontent",
+    "description": "Fork of jfmulticontent",
+    "type": "typo3-cms-extension",
+    "require": {
+        "typo3/cms-core": "^6.2 || ^7.6"
+    },
+    "license": "GPL-v2",
+    "authors": [
+        {
+            "name": "Thomas Löffler",
+            "email": "loeffler@spooner-web.de"
+        }
+    ]
+}
